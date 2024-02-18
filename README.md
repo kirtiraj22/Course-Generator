@@ -1,1 +1,1 @@
-# Staking-DApp
+# Course Generator
